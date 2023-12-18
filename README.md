@@ -1,5 +1,7 @@
 # ARAPS (Air Raid Alert Prediction System)
 
+[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua)
+
 ## Overview
 
 This project provides a set of tools for predicting air raid alerts in Ukraine. It uses historical data to train a [GBM (Gradient Boosting Model)](https://en.wikipedia.org/wiki/Gradient_boosting) that can forecast the likelihood of future air raid alerts. The system is designed to be interactive, allowing users to specify parameters for both training and prediction processes.
